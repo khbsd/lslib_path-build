@@ -74,3 +74,6 @@ StatFastParser
 LSLibSearch
 LSLibSearchIndexer
 *.lst
+
+# rider ide nonsense
+.idea/
